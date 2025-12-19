@@ -8,7 +8,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 
 
-NEWS_API_KEY = "15e03c147b57469f9e7352ef19bc2876"  
+NEWS_API_KEY = "Your "  
 
 
 def clean_text(text):
